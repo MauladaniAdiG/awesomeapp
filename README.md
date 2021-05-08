@@ -2,7 +2,8 @@
 
  <p align="center">
    <img alt="GitHub followers" src="https://img.shields.io/github/followers/MauladaniAdiG?style=for-the-badge">
-  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/MauladaniAdiG/fuudo?color=34c0eb&style=for-the-badge">
+ <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/MauladaniAdiG/awesomeapp?color=408be6&style=for-the-badge">
+ 
  </p>
  
  <P align='center'>This is a sample of the application which contained photo sets from the photographer</p>
